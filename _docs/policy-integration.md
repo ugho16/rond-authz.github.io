@@ -3,7 +3,7 @@ title: Policy Integration
 tags:
   - starter-kit
   - configuration
-description: How to write a policy integrated with Rönd features
+description: Learn Rego and start writing policies integrated with Rönd's features, leveraging Open Policy Agent.
 order: 3
 ---
 
