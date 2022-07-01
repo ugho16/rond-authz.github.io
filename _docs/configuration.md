@@ -3,7 +3,7 @@ title: Configuration
 tags:
   - starter-kit
   - configuration
-description: Configure Rönd
+description: Learn how to configure Rönd and start securing your application.
 order: 2
 ---
 
