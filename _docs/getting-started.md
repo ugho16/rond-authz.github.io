@@ -2,7 +2,7 @@
 title: Getting Started
 tags:
   - starter-kit
-description: Getting started with Rönd
+description: Start with Rönd and manage authorization rules, useful to restrict access to specific resources and API.
 order: 1
 ---
 
