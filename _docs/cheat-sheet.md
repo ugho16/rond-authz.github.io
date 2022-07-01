@@ -3,7 +3,7 @@ title: Cheat Sheet
 tags:
   - cheat-sheet
   - tutorial
-description: Cheat Sheet to boost up your policy writing skills
+description: This is a Cheat Sheet to learn how to use Rego and write great policy on Rönd
 order: 4
 ---
 
