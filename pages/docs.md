@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Documentation
+description: Learn all about Rond, the open source for security enformcement. Browse the documentation and find out all the secrets.
 permalink: /docs/
 ---
 
